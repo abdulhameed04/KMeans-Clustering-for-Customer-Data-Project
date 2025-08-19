@@ -1,1 +1,1 @@
-# KMeans-Clustering-for-Customer-Data-Project
+# KMeans-Clustering-for-Customer-Data
